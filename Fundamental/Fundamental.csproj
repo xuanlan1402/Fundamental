@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>Fundamental.session_03.Ex_10_Check_Positive_and_Negative_Pair</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="session_02\" />
+    <Folder Include="session_01\" />
+  </ItemGroup>
+
+</Project>
