@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Fundamental.session_03.Ex_10_Check_Positive_and_Negative_Pair</StartupObject>
+    <StartupObject>Fundamental.session_04.Ex_12</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
